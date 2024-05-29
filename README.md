@@ -1,5 +1,5 @@
 # Knowledge Distillation Projects
-
+![KD](https://blog.roboflow.com/content/images/2023/05/data-src-image-9b1c284a-de7e-4271-8f6e-29d866d92763.png)
 Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on the implementation and exploration of knowledge distillation techniques in machine learning. Knowledge distillation is a process where a "student" model is trained to replicate the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high levels of performance.
 
 # Table of Contents
@@ -71,6 +71,7 @@ git clone https://github.com/your-username/knowledge-distillation-projects.git
 cd knowledge-distillation-projects
 pip install -r requirements.txt
 
+![KD](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Knowledge-Distillation_1.png?ssl=1)
 # Projects
 Image Classification
 
