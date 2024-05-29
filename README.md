@@ -71,7 +71,6 @@ git clone https://github.com/your-username/knowledge-distillation-projects.git
 cd knowledge-distillation-projects
 pip install -r requirements.txt
 
-![KD](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Knowledge-Distillation_1.png?ssl=1)
 # Projects
 Image Classification
 
@@ -90,6 +89,7 @@ Each project directory contains a README file with specific instructions on how 
     Train the teacher model (if not already provided).
     Train the student model using the distillation technique.
     Evaluate the student model's performance.
+![KD](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/Knowledge-Distillation_1.png?ssl=1)
 
 # Contributing
 
