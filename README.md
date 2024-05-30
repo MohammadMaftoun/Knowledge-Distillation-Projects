@@ -1,6 +1,6 @@
 # Knowledge Distillation Projects
 ![KD](https://blog.roboflow.com/content/images/2023/05/data-src-image-9b1c284a-de7e-4271-8f6e-29d866d92763.png)
-Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on the implementation and exploration of knowledge distillation techniques in machine learning. Knowledge distillation is a process where a "student" model is trained to replicate the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high levels of performance.
+Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on implementing and exploring knowledge distillation techniques in machine learning. Knowledge distillation is a process where a "student" model is trained to replicate the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high-performance levels.
 
 # Table of Contents
 
@@ -31,7 +31,7 @@ knowledge-distillation-projects/
 │   ├── scripts/
 │   └── README.md
 │
-├── nlp/
+├── NLP/
 │   ├── teacher_model/
 │   ├── student_model/
 │   ├── data/
@@ -80,7 +80,7 @@ Natural Language Processing
 Apply knowledge distillation to NLP tasks such as sentiment analysis, text classification, and machine translation. This project demonstrates distillation techniques with models like BERT, GPT, and their student counterparts.
 Reinforcement Learning
 
-Learn about the application of knowledge distillation in reinforcement learning environments. This project showcases how to distill knowledge from complex models to simpler ones in tasks such as game playing and robotic control.
+Learn about the application of knowledge distillation in reinforcement learning environments. This project showcases how to distill knowledge from complex models to simpler ones in game playing and robotic control tasks.
 Usage
 
 Each project directory contains a README file with specific instructions on how to run the experiments. Generally, you will need to follow these steps:
