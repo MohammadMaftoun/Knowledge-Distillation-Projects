@@ -80,7 +80,7 @@ Natural Language Processing
 Apply knowledge distillation to NLP tasks such as sentiment analysis, text classification, and machine translation. This project demonstrates distillation techniques with models like BERT, GPT, and their student counterparts.
 Reinforcement Learning
 
-Learn about the application of knowledge distillation in reinforcement learning environments. This project showcases how to distill knowledge from complex models to simpler ones in game playing and robotic control tasks.
+Learn about the application of knowledge distillation in reinforcement learning environments. This project showcases how to distill knowledge from complex models to simpler ones in game-playing and robotic control tasks.
 Usage
 
 Each project directory contains a README file with specific instructions on how to run the experiments. Generally, you will need to follow these steps:
