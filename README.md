@@ -1,6 +1,6 @@
 # Knowledge Distillation Projects
 ![KD](https://blog.roboflow.com/content/images/2023/05/data-src-image-9b1c284a-de7e-4271-8f6e-29d866d92763.png)
-Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on implementing and exploring knowledge distillation techniques in machine learning. Knowledge distillation is a process where a "student" model is introduced to reproduce the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high-performance levels.
+Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on implementing and investigating knowledge distillation techniques in machine learning. Knowledge distillation is a process where a "student" model is introduced to reproduce the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high-performance levels.
 
 # Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to the Knowledge Distillation Projects repository! This repository house
 
 # Introduction
 
-This repository is designed to provide a comprehensive resource for researchers, students, and practitioners interested in knowledge distillation. Each project within this repository demonstrates the application of knowledge distillation to various domains and tasks. Through these projects, you can learn how to implement knowledge distillation, understand its benefits, and explore its potential applications.
+This repository is designed to provide a comprehensive resource for researchers, students, and practitioners interested in knowledge distillation. Each project within this repository showcases the application of knowledge distillation to various domains and tasks. Through these projects, you can learn how to implement knowledge distillation, understand its benefits, and explore its potential applications.
 # Project Structure
 
 The repository is organized as follows:
