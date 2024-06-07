@@ -1,6 +1,6 @@
 # Knowledge Distillation Projects
 ![KD](https://blog.roboflow.com/content/images/2023/05/data-src-image-9b1c284a-de7e-4271-8f6e-29d866d92763.png)
-Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on implementing and investigating knowledge distillation techniques in machine learning. Knowledge distillation is a process where a "student" model is introduced to reproduce the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high-performance levels.
+Welcome to the Knowledge Distillation Projects repository! This repository houses a collection of projects focused on implementing and investigating knowledge distillation techniques in machine learning. Knowledge distillation is a procedure where a "student" model is introduced to reproduce the behavior of a "teacher" model, often resulting in a smaller, faster, and more efficient model while retaining high-performance levels.
 
 # Table of Contents
 
