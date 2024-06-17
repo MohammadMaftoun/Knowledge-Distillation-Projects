@@ -16,8 +16,10 @@ Welcome to the Knowledge Distillation Projects repository! This repository house
     License
 
 # Introduction
+It is a challenge to deploy cumbersome deep models on devices with limited resources, e.g., mobile phones and embedded devices, not only because of the high computational complexity but also the large storage requirements. To this end, a variety of model compression and acceleration techniques have been developed. As a representative type of model compression and acceleration, knowledge
+distillation effectively learns a small student model from a large teacher model. It has received rapidly increasing attention from the community.
+Hence, This repository is designed to provide a comprehensive resource for researchers, students, and practitioners interested in knowledge distillation. Each project within this repository showcases the application of knowledge distillation to various domains and tasks. Through these projects, you can learn how to implement knowledge distillation, understand its benefits, and explore its potential applications.
 
-This repository is designed to provide a comprehensive resource for researchers, students, and practitioners interested in knowledge distillation. Each project within this repository showcases the application of knowledge distillation to various domains and tasks. Through these projects, you can learn how to implement knowledge distillation, understand its benefits, and explore its potential applications.
 # Project Structure
 
 The repository is organized as follows:
